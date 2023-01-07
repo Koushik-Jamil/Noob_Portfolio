@@ -3,7 +3,7 @@ margin: 0;
 font-family:'Work Sans','Open Sans';
 }
 header{
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(../images/banner/banner2.png);
     width: 1600px;
     height: 809px;
     display: flex;
@@ -122,7 +122,7 @@ li{
     margin:0 auto  ;
 }
 .third_section{
-    background-image: url(/images/watch.png),url(/images/gradient2.png);
+    background-image: url(../images/watch.png),url(../images/gradient2.png);
     background-blend-mode:lighten;
     background-repeat: no-repeat;
 }
