@@ -1,0 +1,158 @@
+*{
+margin: 0;
+font-family:'Work Sans','Open Sans';
+}
+header{
+    background-image: url(/images/banner/banner2.png);
+    width: 1600px;
+    height: 809px;
+    display: flex;
+    justify-content: right;
+}
+.heading_statements{
+    height: 228px;
+    width: 525px;
+    /**/
+    
+    margin-right:231px;
+
+}
+
+.first_statement{
+    
+font-size: 65px;
+font-weight: 700;
+
+text-align: right;
+margin-top: 216px;
+margin-bottom: 24px;
+
+
+
+
+
+
+
+}
+.second_statement{
+
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: right;
+margin-bottom: 32px;
+
+
+
+}
+.btn_contact{
+    color: #FFFFFF;
+    
+    font-size: 20px;
+    
+    height: 64px;
+    width: 160px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: 0;
+    margin-left:368px;
+    
+
+}
+/*Main secton*/
+.container{
+    margin: 130px 323px 0 206px ;
+    
+}
+.first_main_section{
+    margin-bottom: 130px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 130px;
+}
+.content_section{
+    margin-left: 103px;
+
+}
+.first_content{
+font-size: 40px;
+font-weight: 700;
+text-align: left;
+margin-top: 243px;
+margin-bottom: 24px;
+
+
+}
+.second_content{
+font-size: 16px;
+font-weight: 400;
+text-align: left;
+margin-bottom: 24px;
+}
+.list_section{
+    margin-left: -40px;
+}
+li{
+    list-style: none;
+    margin: 10px 0;
+}
+.second_main_section{
+    margin-bottom: 125px;
+}
+
+.plans_title h2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.plans{
+    margin-top: 20px;
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+.individual_plan h3{
+    margin-top:30px ;
+    margin-bottom: 16px;
+}
+.individual_plan p{
+    
+    margin:0 auto  ;
+}
+.third_section{
+    background-image: url(/images/watch.png),url(/images/gradient2.png);
+    background-blend-mode:lighten;
+    background-repeat: no-repeat;
+}
+.call_now{
+    padding: 59px 617px 24px 64px;
+
+}
+.call_now h1{
+   color:#FFFFFF;
+   size: 40px;
+   margin-left: 20px;
+  
+
+}
+
+
+.call{
+    color:#F15B22;
+    
+    font-size: 20px;
+    font-weight: 600;
+    
+    height: 64px;
+    width: 160px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: 0;
+    margin-top: 24px;
+    margin-bottom:59px;
+    
+
+    
+    
+}
